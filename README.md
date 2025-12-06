@@ -5,8 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laura-lópez-gonzález-957773320/)
+[<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/lauralpz11)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/lauralpz11)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@lau.lpz11)
 </div>
 
 ###
@@ -36,5 +39,4 @@
 ###
 
 ### 📫 Contacto
-📧 lauralpzgonzalez@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/laura-lópez-gonzález-957773320/) | [Instagram](https://www.instagram.com/lauralpz11/)
+📧 lauralpzgonzalez@gmail.com
